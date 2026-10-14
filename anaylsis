@@ -1,0 +1,6 @@
+import pandas as pd 
+import matplotlib.pyplot as plt
+
+print('pandas', pd.__version__)
+plt.plot([1,2,3], [2,4,3])
+plt.show()
